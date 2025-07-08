@@ -3,3 +3,8 @@ RestaurantNameGenerator/secret_key
 *.pyc
 myenv
 chroma_langchain_db
+__pycache__
+*.ipynb_checkpoints
+*.DS_Store
+*.env
+.venv/
