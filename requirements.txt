@@ -5,4 +5,5 @@ streamlit
 langchain-community
 numexpr
 wikipedia
+langraph
 
